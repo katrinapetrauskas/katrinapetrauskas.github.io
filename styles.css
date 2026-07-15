@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #EBBCB6;
+}
+
+.description {
+    font-size: 18px;
+    background: #5158bb;
+    padding: 6%;
+}
+
+.other {
+    font-size: 22px;
+    background: #eb4b98;
+    padding: 6%;
+}
